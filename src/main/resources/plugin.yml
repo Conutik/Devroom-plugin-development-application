@@ -1,0 +1,10 @@
+name: Economy
+version: '${project.version}'
+main: com.conutik.economy.Eco
+api-version: 1.18
+depend: [ Vault ]
+authors: [ Conutik ]
+description: Economy plugin
+commands:
+  money:
+    description: Time to get da money
